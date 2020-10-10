@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+google-image-donwloder/__init__.py
+google_image_downloader.egg-info/PKG-INFO
+google_image_downloader.egg-info/SOURCES.txt
+google_image_downloader.egg-info/dependency_links.txt
+google_image_downloader.egg-info/top_level.txt

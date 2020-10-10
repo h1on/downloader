@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: google-image-downloader
+Version: 1.0
+Summary: Download images from any website
+Home-page: https://github.com/h1on/downloader
+Author: h1on
+Author-email: c01066033993@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
